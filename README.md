@@ -110,7 +110,7 @@ Olá, me chamo Luis Gustavo de Brito, tenho 21 anos e sou de Fortaleza. Atualmen
 <img 
       align="left" 
       alt="My GitHub Stats" 
-      height="180" 
+      height="195" 
       src="https://github-readme-stats.shion.dev/api/top-langs/?username=luisgustavobl&theme=holi&layout=compact&custom_title=Linguagens&langs_count=8" 
   />
 </p>
