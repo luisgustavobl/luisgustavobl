@@ -5,7 +5,7 @@
 Olá, me chamo Luis Gustavo de Brito, tenho 21 anos e sou de Fortaleza. Atualmente sou estudante da UNIFOR e estou cursando Análise e Desenvolvimento de Sistemas.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/luis-brito-96b098375/">
+    <a href="https://www.linkedin.com/in/luis-brito-96b098375/" target="_blank" rel="external">
         <img 
             alt="Linkedin" 
             title="Meu perfil no Linkedin" 
@@ -13,7 +13,7 @@ Olá, me chamo Luis Gustavo de Brito, tenho 21 anos e sou de Fortaleza. Atualmen
             height="28"
         />
     </a>
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luis.gustadev@gmail.com">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luis.gustadev@gmail.com" target="_blank" rel="external">
         <img 
             alt="Gmail" 
             title="Enviar um email" 
@@ -21,7 +21,7 @@ Olá, me chamo Luis Gustavo de Brito, tenho 21 anos e sou de Fortaleza. Atualmen
             height="28"
         />
     </a> 
-    <a href="https://www.instagram.com/lugustavv/">
+    <a href="https://www.instagram.com/lugustavv/" target="_blank" rel="external">
         <img 
             alt="Instagram" 
             title="Abrir o meu instagram" 
