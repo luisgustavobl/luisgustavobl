@@ -104,14 +104,14 @@ Olá, me chamo Luis Gustavo de Brito, tenho 21 anos e sou de Fortaleza. Atualmen
     alt="My GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.shion.dev/api?username=luisgustavobl&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.shion.dev/api?username=luisgustavobl&show_icons=true&theme=holi&include_all_commits=true" 
   />
 
 <img 
       align="left" 
       alt="My GitHub Stats" 
       height="195" 
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=luisgustavobl&theme=holi&layout=compact&custom_title=Linguagens&langs_count=8" 
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=luisgustavobl&theme=holi&layout=compact&custom_title=Minhas linguagens&langs_count=8" 
   />
 </p>
 
