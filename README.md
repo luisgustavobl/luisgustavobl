@@ -5,7 +5,7 @@
 Olá, me chamo Luis Gustavo de Brito, tenho 21 anos e sou de Fortaleza. Atualmente sou estudante da UNIFOR e estou cursando Análise e Desenvolvimento de Sistemas.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/luis-brito-96b098375/" target="_blank" rel="external">
+    <a href="https://www.linkedin.com/in/luisgustavobl/" target="_blank" rel="external">
         <img 
             alt="Linkedin" 
             title="Meu perfil no Linkedin" 
